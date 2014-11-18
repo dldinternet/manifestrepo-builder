@@ -1,0 +1,1 @@
+require 'manifestrepo/builder/version'
